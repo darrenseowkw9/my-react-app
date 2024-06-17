@@ -15,11 +15,11 @@ A simple Google Place API Autocomplete ReactJS application.
 
 * Please make sure localhost port 3000 is not occupy.
 * Please make sure NodeJS is installed in your local machine.
-* 1. Run NodeJS command to install dependencies:
+* Run NodeJS command to install dependencies:
 ```
 npm install
 ```
-* 2. Run NodeJS command to start the app:
+* Run NodeJS command to start the app:
 ```
 npm start
 ```
